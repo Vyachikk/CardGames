@@ -1,0 +1,47 @@
+{
+  "CurrentPlayers": [
+    {
+      "Bet": 6547,
+      "Name": "Morgan",
+      "Bank": {
+        "Balance": 936
+      },
+      "Balance": 936,
+      "Cards": []
+    },
+    {
+      "Bet": 2129,
+      "Name": "Payton",
+      "Bank": {
+        "Balance": 739
+      },
+      "Balance": 739,
+      "Cards": []
+    }
+  ],
+  "Dealer": {
+    "InHandCards": [
+      {
+        "cardRank": 2,
+        "cardSuit": 0
+      },
+      {
+        "cardRank": 3,
+        "cardSuit": 0
+      },
+      {
+        "cardRank": 10,
+        "cardSuit": 0
+      },
+      {
+        "cardRank": 10,
+        "cardSuit": 0
+      }
+    ]
+  },
+  "Name": "TestCasino",
+  "Bank": {
+    "Balance": 1073750499
+  },
+  "Balance": 1073750499
+}

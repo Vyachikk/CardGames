@@ -1,0 +1,47 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3babda04_002Dc559_002D4f19_002D9e71_002De87d0cef79fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StartTest_ManyOneTimeGames_ClearCards" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Third.Tests" Presentation="&amp;lt;OOP-ICT.Third.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=463198b1_002D3793_002D42c0_002D9af0_002D1c86d0c925ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CardServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::446BFAAD-EC0E-4CE7-975B-58D803FE0480::net7.0::OOP_ICT.Third.Tests.BlackJackTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91b66f55_002Dd587_002D45ee_002D9538_002Da1aa996fb463/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateWinnings_WithPlayers_ShouldUpdateWinOrLoss #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Third.Tests" Presentation="&amp;lt;OOP-ICT.Third.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f09df3c_002Db5a2_002D4b48_002Dabdd_002Dcd143123aca1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Bank_RegisterNewPlayer_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Third.Tests" Presentation="&amp;lt;OOP-ICT.Third.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6f2a2aa_002D3013_002D4095_002Db539_002D406d5b5b88ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Start_GameWithPlayersAndEnoughCards_PlayersReceiveCards" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Third.Tests" Presentation="&amp;lt;OOP-ICT.Third.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c9730477_002D577a_002D48c6_002D9d07_002D93b99fb14b86/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DeserializeFromJson_ValidJson_ReturnsObject_GameStarted" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Third.Tests" Presentation="&amp;lt;OOP-ICT.Third.Tests&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::2CDD851F-75C1-4EA5-AF96-9B017148FB8B::net7.0::OOP_ICT.Fourth.Tests.CardDeckL4Tests.CheckPairs&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::2CDD851F-75C1-4EA5-AF96-9B017148FB8B::net7.0::OOP_ICT.Fourth.Tests.PokerTests.GiveCards_WithPlayers_ShouldAddCards&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::2CDD851F-75C1-4EA5-AF96-9B017148FB8B::net7.0::OOP_ICT.Fourth.Tests.PokerTests.Constructor_WithNameAndBalance_CreatesPokerCasinoObject&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::2CDD851F-75C1-4EA5-AF96-9B017148FB8B::net7.0::OOP_ICT.Fourth.Tests.PokerTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d1f1b32c_002D784c_002D4f79_002D8e5a_002Db000f4e1ba77/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Bank_Deposit_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::446BFAAD-EC0E-4CE7-975B-58D803FE0480::net7.0::OOP_ICT.Third.Tests.BlackJackTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::446BFAAD-EC0E-4CE7-975B-58D803FE0480::net7.0::OOP_ICT.Third.Tests.BlackJackTestsL3.CardServiceTestNum2&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Second.Tests" Presentation="&amp;lt;OOP-ICT.Second.Tests&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Third.Tests" Presentation="&amp;lt;OOP-ICT.Third.Tests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0b68ad9_002Df519_002D45b4_002Da46d_002D2219f89364a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateWinnings_WithPlayers_ShouldUpdateWinOrLoss" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::446BFAAD-EC0E-4CE7-975B-58D803FE0480::net7.0::OOP_ICT.Third.Tests.BlackJackTestsL3.CalculateWinnings_WithPlayers_ShouldUpdateWinOrLoss&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e417e1e1_002Da186_002D4086_002Dbfcb_002D2996a8afe716/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateWinnings_WithPlayers_ShouldUpdateWinOrLoss #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Third.Tests" Presentation="&amp;lt;OOP-ICT.Third.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

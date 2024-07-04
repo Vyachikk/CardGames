@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>OOP_ICT.Second</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="obj\**" />
+      <Compile Remove="Builders\**" />
+      <Compile Remove="Factories\GameFactory.cs" />
+      <Compile Remove="Interfaces\IGameFactory.cs" />
+      <Compile Remove="CustomExceptions\NotEnoughCardsException.cs" />
+      <Compile Remove="CustomExceptions\GameBuildingException.cs" />
+      <Compile Remove="CustomExceptions\InvalidCardAddingException.cs" />
+      <Compile Remove="Models\BlackjackGame.cs" />
+      <Compile Remove="Models\BlackjackDealer.cs" />
+      <Compile Remove="Adapters\**" />
+      <Compile Remove="Factories\ConcretePlayerBankFactory.cs" />
+      <Compile Remove="Exceptions\**" />
+      <Compile Remove="Interfaces\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="obj\**" />
+      <EmbeddedResource Remove="Builders\**" />
+      <EmbeddedResource Remove="Adapters\**" />
+      <EmbeddedResource Remove="Exceptions\**" />
+      <EmbeddedResource Remove="Interfaces\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="obj\**" />
+      <None Remove="Builders\**" />
+      <None Remove="Adapters\**" />
+      <None Remove="Exceptions\**" />
+      <None Remove="Interfaces\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\OOP-ICT.First\OOP-ICT.First.csproj" />
+    </ItemGroup>
+
+</Project>

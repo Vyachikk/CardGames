@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>OOP_ICT.Fifth</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Spectre.Console" Version="0.48.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\OOP-ICT.First\OOP-ICT.First.csproj" />
+      <ProjectReference Include="..\OOP-ICT.Second\OOP-ICT.Second.csproj" />
+      <ProjectReference Include="..\OOP-ICT.Third\OOP-ICT.Third.csproj" />
+    </ItemGroup>
+
+</Project>

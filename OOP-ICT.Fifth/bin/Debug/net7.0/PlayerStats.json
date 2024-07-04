@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Riley",
+    "Chips": 9720,
+    "MatchesPlayed": 2,
+    "Wins": 1251,
+    "Losses": 950
+  },
+  {
+    "Name": "Alex",
+    "Chips": 7836,
+    "MatchesPlayed": 2,
+    "Wins": 0,
+    "Losses": 1051
+  },
+  {
+    "Name": "Jordan",
+    "Chips": 1853,
+    "MatchesPlayed": 3,
+    "Wins": 0,
+    "Losses": 1051
+  },
+  {
+    "Name": "Payton",
+    "Chips": 3610,
+    "MatchesPlayed": 3,
+    "Wins": 3200,
+    "Losses": 1051
+  },
+  {
+    "Name": "Skyler",
+    "Chips": 1034,
+    "MatchesPlayed": 2,
+    "Wins": 0,
+    "Losses": 651
+  },
+  {
+    "Name": "Morgan",
+    "Chips": 6435,
+    "MatchesPlayed": 3,
+    "Wins": 6000,
+    "Losses": 1551
+  },
+  {
+    "Name": "Payton",
+    "Chips": 347,
+    "MatchesPlayed": 3,
+    "Wins": 0,
+    "Losses": 1551
+  },
+  {
+    "Name": "Taylor",
+    "Chips": 2260,
+    "MatchesPlayed": 3,
+    "Wins": 0,
+    "Losses": 1551
+  },
+  {
+    "Name": "Casey",
+    "Chips": 7350,
+    "MatchesPlayed": 3,
+    "Wins": 0,
+    "Losses": 1051
+  }
+]

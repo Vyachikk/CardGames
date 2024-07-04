@@ -1,0 +1,252 @@
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.exe
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.deps.json
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.runtimeconfig.json
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.AssemblyReference.cache
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfoInputs.cache
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfo.cs
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.CoreCompileInputs.cache
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\refint\OOP-ICT.Fourth.dll
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.genruntimeconfig.cache
+C:\Users\zalet\Downloads\ARTEMIDA7736-lab-1 (1)\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\ref\OOP-ICT.Fourth.dll
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.exe
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.deps.json
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.runtimeconfig.json
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfo.cs
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\refint\OOP-ICT.Fourth.dll
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.genruntimeconfig.cache
+C:\Users\Артём\Desktop\ARTEMIDA7736-lab-2\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\ref\OOP-ICT.Fourth.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\testhost.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.deps.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.runtimeconfig.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.exe
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.deps.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.runtimeconfig.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.deps.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.runtimeconfig.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.exe
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\testhost.exe
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.exe
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.exe
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.deps.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.runtimeconfig.json
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\xunit.core.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.pdb
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.pdb
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.pdb
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.AssemblyReference.cache
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfoInputs.cache
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfo.cs
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.CoreCompileInputs.cache
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.CopyComplete
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\refint\OOP-ICT.Fourth.dll
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.genruntimeconfig.cache
+C:\Users\zalet\OneDrive\Рабочий стол\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\ref\OOP-ICT.Fourth.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\refint\OOP-ICT.Fourth.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\testhost.exe
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\testhost.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.deps.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.exe
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.deps.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.deps.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.exe
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.exe
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.exe
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.deps.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Fourth.pdb
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\xunit.core.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.dll
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.First.pdb
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Third.pdb
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\bin\Debug\net7.0\OOP-ICT.Second.pdb
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.csproj.CopyComplete
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\OOP-ICT.Fourth.genruntimeconfig.cache
+C:\Users\Vyacheslav\Desktop\main3lab\ARTEMIDA7736-lab-1\OOP-ICT.Fourth\obj\Debug\net7.0\ref\OOP-ICT.Fourth.dll

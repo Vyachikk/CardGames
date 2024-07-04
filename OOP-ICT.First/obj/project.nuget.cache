@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZKRbctMf/uH/6mYxN+LFdjY2GPf11ZILgY8UY4X8TqU5lr4kWsxLKOomMkJum5JlcTNobMdBTbK8WMVJUjnMw==",
+  "success": true,
+  "projectFilePath": "F:\\SourceProjects\\Orders\\ARTEMIDA7736-lab-1\\OOP-ICT.First\\OOP-ICT.First.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
